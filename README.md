@@ -8,6 +8,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feli-arroyo/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/artuhaxis) [![E-Mail](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:feliarroyo@hotmail.com")
 </div>
 
+ ## About Me
+
+* 🎮 **Gamer & pop music enthusiast:** Avid Overwatch player and lifelong video game fan. Carly Rae Jepsen means the world to me.
+* 🌐 **Community Translator:** Frequent collaborator on the *Jackbox en español* community translation project.
+* ☕ **Always learning:** Currently diving deep into **Java** and **Spring Boot**; expect projects using the Spring Framework soon! :)
+
 ## Projects
 
 | Project | Description | Tech Stack |
