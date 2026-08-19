@@ -27,3 +27,9 @@
 | [![Compiler](logos/compiler-long.webp)](https://github.com/feliarroyo/Compilador-2022) | Assembly compiler developed as part of Compiler Design in UNICEN | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![YACC](https://img.shields.io/badge/yacc-%232B2F33.svg?style=for-the-badge) ![MASM32](https://img.shields.io/badge/masm32-%23172BF4.svg?style=for-the-badge)
 | [![Poker Planning](logos/workers-long.png)](https://agustinschilling.github.io/workers/) | Poker Planning subsection of the AgileTalk project | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/csharp-%234e56a6.svg?style=for-the-badge) ![RASA](https://img.shields.io/badge/RASA-%23541BAE.svg?style=for-the-badge) |
 | [![Decision Tree](logos/imdbdecisiontree-long.png)](https://github.com/feliarroyo/arbol-decision-imdb) | Decision Tree based on personal TV/movie recommendations | ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+
+<div align="center">
+
+  Tech stack badges from [Markdown Badges by Ileriayo](https://github.com/Ileriayo/markdown-badges)
+
+</div>
