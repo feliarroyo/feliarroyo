@@ -13,13 +13,14 @@
 
 * 🎮 **Gamer & pop music enthusiast:** Avid Overwatch player and lifelong video game fan. Carly Rae Jepsen means the world to me.
 * 🌐 **Community Translator:** Frequent collaborator on the *Jackbox en español* community translation project.
-* ☕ **Always learning:** Currently diving deep into **Java** and **Spring Boot**; expect projects using the Spring Framework soon! 🙂
+* ☕ **Always improving:** As of now, I'm mainly focusing on **Java** and **Spring Boot** projects! 🙂
 
 ## Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [![Charades](logos/charades-long.png)](https://github.com/feliarroyo/Charades) | Open-source, ad-free version of the party game for Android and Windows | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/csharp-%234e56a6.svg?style=for-the-badge)|
+| [![QualityTrack](logos/qualitytrack-long.png)](https://github.com/No-Country-simulation/S08-26-equipo04) | Web application for tracking manufacturing processes | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white) ![Neon](https://img.shields.io/badge/neon-%2357A143.svg?style=for-the-badge) |
 | [![MHGame](logos/mhgame-long.png)](https://github.com/feliarroyo/evaluacion-cognitiva) | Application showcasing a serious game for facilitating cognitive evaluation | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/csharp-%234e56a6.svg?style=for-the-badge) ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white) |
 | [![MHGame (Admin App)](logos/mhgameadmin-long.png)](https://github.com/feliarroyo/evaluacion-cognitiva-web) | Web application to customize and control MHGame activities | ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 | [![EAY Generator](logos/eaygenerator-long.webp)](https://github.com/feliarroyo/eay-generator) | Prompt editor for the Fibbage: Enough About You series | ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) |
